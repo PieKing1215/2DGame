@@ -580,8 +580,8 @@ public class Game extends Canvas implements Runnable {
         	g.drawString("Y Coords: "+Player.getLocation().getY(), getWidth()-190, getHeight()-170);
         	g.drawString("# Entities: "+Level.level.getEntities().size(), getWidth()-190, getHeight()-145);
         	g.drawString("Level:", getWidth()-190, getHeight()-120);
-        	g.setFont(new Font("Verdana", 1, 16));
-        	g.drawString(""+Level.level.imagePath, getWidth()-120, getHeight()-120);
+        	g.setFont(new Font("AgencyFB", 1, 16));
+        	g.drawString(""+Level.level.imagePath, getWidth()-125, getHeight()-120);
         	g.setFont(new Font("Verdana", 0, 20));
         	g.drawString("Mouse X:"+(MouseInfo.getPointerInfo().getLocation().getX()-frame.getX()), getWidth()-190, getHeight()-95);
         	g.drawString("Mouse Y:"+(MouseInfo.getPointerInfo().getLocation().getY()-frame.getY()), getWidth()-190, getHeight()-70);
