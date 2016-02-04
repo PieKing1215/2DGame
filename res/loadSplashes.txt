@@ -1,0 +1,10 @@
+Gotta read fast!
+Press F4 to enter edit mode.
+Press F5 to save a level.
+Press F6 to reload a level.
+Attack with the spacebar.
+Move with WASD or the arrow keys.
+The snowmen are not really snowmen.
+If you have enough time to read this whole message, your game is loading slowly.
+Don't worry, the zombies are nice.
+help me im stuck working here at [Redacted]
